@@ -2,6 +2,8 @@
 
 A small FastAPI + PostgreSQL app, containerized with Docker Compose, built as a hands-on project for learning container orchestration.
 
+Dockerhub link: https://hub.docker.com/r/chasejohnson595/tinyapp-api
+
 ## Stack
 - FastAPI
 - PostgreSQL
