@@ -1,0 +1,4 @@
+fastapi[standard]==0.115.0
+pydantic==2.8.2
+sqlalchemy
+psycopg2-binary
